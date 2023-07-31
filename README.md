@@ -2,6 +2,7 @@ Currently I have experience as an academic assistant of electrical machines and 
 
 Skills: Python / Linux / Bash / NodeRed/ C++ / LaTex / Internet of Things / Cybersecurity
 
-    🔭 I’m currently working on research and software development of Internet of Things and Cybersecurity.
+    🔭 I’m currently working on research and software development of Internet of Things 
+     and Cybersecurity.
     👯 I’m looking to collaborate on Cybersecurity and Internet of Things.
     📫 How to reach me: dalflj6kd35@hotmail.com
